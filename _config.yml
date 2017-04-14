@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /lol-blog
+exclude: ['README.md']
